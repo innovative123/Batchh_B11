@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\bin\Debug\net8.0\Auto.exe
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\bin\Debug\net8.0\Auto.deps.json
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\bin\Debug\net8.0\Auto.runtimeconfig.json
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\bin\Debug\net8.0\Auto.dll
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\bin\Debug\net8.0\Auto.pdb
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\Auto.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\Auto.AssemblyInfo.cs
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\Auto.dll
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\refint\Auto.dll
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\Auto.pdb
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\Auto.genruntimeconfig.cache
+C:\Users\Admin\Documents\Dot Net\Console Application\Auto\Auto\obj\Debug\net8.0\ref\Auto.dll
